@@ -45,15 +45,16 @@ The database consists of seven tables:
 
 ### 1. Patient, Doctor, and Appointment Details
 
-![Patient Doctor Appointments](screenshots/01_patient_doctor_appointments.png)
+![Patient Doctor Appointments](screenshots/patient_doctor_appointments.png)
 
 ### 2. Department-Wise Doctor Count
 
-![Department Doctor Count](screenshots/02_department_doctor_count.png)
+![Department Doctor Count](screenshots/department_doctor_count.png)
 
 ### 3. Patient Treatment Details
 
-![Patient Treatment Details](screenshots/03_patient_treatment_details.png)
+![Patient Treatment Details](screenshots/patient_treatment_details.png)
+
 
 ## How to Run the Project
 
