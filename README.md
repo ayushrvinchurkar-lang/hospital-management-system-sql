@@ -67,3 +67,7 @@ The database consists of seven tables:
 ## Project Objective
 
 The objective of this project is to demonstrate practical SQL skills, relational database design, and the ability to retrieve useful information from related tables.
+
+## Project Report
+
+For a detailed explanation of the database design, ER diagram, normalization, SQL queries, and query optimization, see the [Full Project Report](docs/hospital_management_system_report.pdf).
